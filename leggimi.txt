@@ -1,0 +1,5 @@
+- "FacebbokApi" è realizzato con le API-Facebook
+- "Progetto" è realizzato con casperjs.
+
+per provarlo installare correttamente casperjs, phantomjs, mamp e tabelle necessarie per il funzionamento corretto.
+(vedi relazione)
